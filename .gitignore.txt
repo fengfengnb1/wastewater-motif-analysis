@@ -3,5 +3,6 @@ data/
 __pycache__/
 *.pyc
 *.tex
-7days/
-250day/
+*.txt
+7_days/
+250_day/
