@@ -1,4 +1,4 @@
-\## Project Background
+## Project Background
 
 
 
@@ -12,33 +12,33 @@ This project focuses on analyzing industrial wastewater treatment data using mat
 
 Developed in Python, this workflow is designed to support:
 
-\- Process monitoring
+- Process monitoring
 
-\- Pattern recognition
+- Pattern recognition
 
-\- Anomaly detection
+- Anomaly detection
 
-\- Operational status analysis
-
-
-
-\## Technologies
+- Operational status analysis
 
 
 
-\- Python
+## Technologies
 
-\- Pandas
 
-\- NumPy
 
-\- Matplotlib
+- Python
 
-\- STUMPY
+- Pandas
 
-\- Time-Series Analysis
+- NumPy
 
-\- Matrix Profile
+- Matplotlib
+
+- STUMPY
+
+- Time-Series Analysis
+
+- Matrix Profile
 
 
 
@@ -63,7 +63,7 @@ industrial-time-series-analysis/
 ├── README.md
 
 └── requirements.txt
-
+```
 
 
 ## Workflow
