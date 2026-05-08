@@ -90,7 +90,7 @@ industrial-time-series-analysis/
 
 
 
-!\[Process Flow](figures/process\_flow.png)
+!\[Process Flow](process_flow.png)
 
 
 
@@ -102,7 +102,7 @@ industrial-time-series-analysis/
 
 
 
-!\[Motif Result](results/TSS.png)
+!\[Motif Result](results/important_results/TSS.png)
 
 
 
