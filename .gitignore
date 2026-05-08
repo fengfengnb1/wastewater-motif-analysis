@@ -2,7 +2,9 @@
 data/
 __pycache__/
 *.pyc
-*.tex
-*.txt
+
+HongfengProject.tex
+boxplot.txt
+
 7_days/
 250_day/
