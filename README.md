@@ -103,6 +103,7 @@ industrial-time-series-analysis/
 
 
 ![Motif Result](results/figures/TSS.png)
+![Motif Result](results/figures/SO.png)
 
 
 ## Application Areas
