@@ -42,7 +42,7 @@ Developed in Python, this workflow is designed to support:
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -66,81 +66,79 @@ industrial-time-series-analysis/
 
 
 
-\## Workflow
+## Workflow
 
 
 
-1\. Import and preprocess industrial sensor data
+1. Import and preprocess industrial sensor data
 
-2\. Create time index and normalize signals
+2. Create time index and normalize signals
 
-3\. Estimate dominant signal periods
+3. Estimate dominant signal periods
 
-4\. Compute Matrix Profile using STUMPY
+4. Compute Matrix Profile using STUMPY
 
-5\. Detect motifs and repeated operational patterns
+5. Detect motifs and repeated operational patterns
 
-6\. Visualize motif regions and anomaly indicators
+6. Visualize motif regions and anomaly indicators
 
-7\. Evaluate operational behavior
-
-
-
-\## Process Flow
+7. Evaluate operational behavior
 
 
 
-!\[Process Flow](process_flow.png)
+## Process Flow
 
 
 
-\## Example Result
+![Process Flow](process_flow.png)
 
 
 
-\### Matrix Profile and Motif Detection
+## Example Result
 
 
 
-!\[Motif Result](results/important_results/TSS.png)
+### Matrix Profile and Motif Detection
 
 
 
-\## Application Areas
+![Motif Result](results/important_results/TSS.png)
 
+
+## Application Areas
 
 
 I believe this data monitoring project can be extended to the following areas:
 
 
 
-\- Predictive maintenance
+- Predictive maintenance
 
-\- Energy system monitoring
+- Energy system monitoring
 
-\- Process optimization
+- Process optimization
 
-\- Fault detection
-
-
-
-\## Future Improvements
+- Fault detection
 
 
 
-\- Real-time anomaly detection
-
-\- LSTM-based forecasting
-
-\- Dashboard integration
-
-\- Online monitoring system
-
-\- AI-assisted process diagnostics
+## Future Improvements
 
 
 
-\## Author
+- Real-time anomaly detection
+
+- LSTM-based forecasting
+
+- Dashboard integration
+
+- Online monitoring system
+
+- AI-assisted process diagnostics
+
+
+
+## Author
 
 
 
